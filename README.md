@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on AS in Computer Science
-- 🌱 I’m currently learning C++
+- 🔭 I’m currently working on AS for Transfer in Computer Science
+- 🌱 I’m currently learning C/C#/C++
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
