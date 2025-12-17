@@ -2,9 +2,11 @@
 
 <!--
 **dkelly0226/dkelly0226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started: -->
-- 😄 Pronouns: He/Him (i respond to anything)
+
+Hi! I'm DK, an aspiring Software Engineer entering my junior year transferring to University. Here's some basic info about me:
+
+- 😄 Pronouns: He/Him (I respond to anything)
 - 🔭 I’m currently working on my BS in Software Engineering
 - 🧑‍🎓 Proficient in C++, Python, HTML, CSS;
 - 🌱 Learning Java, Javascript
